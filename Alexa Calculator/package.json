@@ -1,0 +1,19 @@
+{
+  "name": "alexa-calculator",
+  "version": "1.0.0",
+  "description": "Alexa Calculator Skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "calculator"
+  ],
+  "author": "Javeria Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.86.0"
+  }
+}
